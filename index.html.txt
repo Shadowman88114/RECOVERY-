@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Creator Hub</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Creator Hub</h1>
+    <p>Explore my channels and shop.</p>
+    <nav>
+      <a href="music.html">🎵 Music</a>
+      <a href="news.html">🗞 News</a>
+      <a href="gaming.html">🎮 Gaming</a>
+      <a href="ghost.html">👻 Ghost Hunting</a>
+    </nav>
+  </header>
+  <footer>
+    <p>Follow me on <a href="https://www.tiktok.com/@fireandblood45" target="_blank">TikTok</a></p>
+  </footer>
+</body>
+</html>
